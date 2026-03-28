@@ -1,0 +1,12 @@
+# Ignore data and large files
+data/
+*.zip
+*.nii.gz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local environment
+.venv/
+.env
