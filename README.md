@@ -39,5 +39,5 @@ pip install -r requirements.txt
 ```
 ### 3. Run Inference
 ```bash
-notebooks/ReenuLK_PrediCT_Task-1.ipynb
+notebook/ReenuLK_PrediCT_Task-1.ipynb
 ```
